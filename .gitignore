@@ -4,3 +4,6 @@ package.json
 render-report.json
 artifacts-*.png
 .vercel/
+
+.vercel
+.env*.local
